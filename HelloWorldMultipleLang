@@ -1,0 +1,34 @@
+-----Hello World program in C , C++ , Java , and Python Languages-------
+
+***** C Language ***********
+
+#include<stdio.h>
+int main(){
+printf("Hello World");
+return 0;
+}
+
+
+*********C++ Language *******
+
+#include<iostream>
+using namespace std;
+int main(){
+cout<< "Hello World";
+return 0 ;
+}
+
+
+*********JAVA Language ******
+
+import java.util.*;
+public class Hello {
+       public static void main(){
+          System.out.println("Hello World");
+      }
+   }
+
+
+****** Python ****************
+
+print("Hello World")
